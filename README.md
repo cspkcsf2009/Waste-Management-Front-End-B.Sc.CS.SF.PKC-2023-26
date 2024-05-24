@@ -16,7 +16,7 @@ This project aims to develop a comprehensive waste management system that levera
 
 **Reference Links:**
 
-* **Video Link:** You can access the project video here: **[https://drive.google.com/file/d/1g5IEmg8GLQqanEH4W8Pvs3iAubE1g7qg/view?usp=drive_link]** (https://drive.google.com/file/d/1g5IEmg8GLQqanEH4W8Pvs3iAubE1g7qg/view?usp=drive_link).
+* **Video Link:** You can access the project video here: [https://drive.google.com/file/d/1g5IEmg8GLQqanEH4W8Pvs3iAubE1g7qg/view?usp=drive_link](https://drive.google.com/file/d/1g5IEmg8GLQqanEH4W8Pvs3iAubE1g7qg/view?usp=drive_link)
 * **Website Link:** Visit the project website for detailed information and interactive features: [https://wastemanagementbypkc.netlify.app](https://wastemanagementbypkc.netlify.app)
 * **Website API Link:** This link provides access to the application programming interface (API) for the project website: [https://waste-management-back-end-b-sc-cs-sf-pkc.onrender.com](https://waste-management-back-end-b-sc-cs-sf-pkc.onrender.com)
 * **API Documentation Link:** Refer to this link for comprehensive documentation on how to interact with the project website's API: [https://documenter.getpostman.com/view/33162380/2sA3JKc2J1](https://documenter.getpostman.com/view/33162380/2sA3JKc2J1)
