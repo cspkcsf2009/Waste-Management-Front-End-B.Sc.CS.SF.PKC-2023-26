@@ -3,7 +3,7 @@
 
 ## Department of Computer Science
 
-### Project: Revolutionizing Waste Management through Technology
+## Project: Revolutionizing Waste Management through Technology
 
 This project aims to develop a comprehensive waste management system that leverages technology to improve efficiency and awareness. 
 
