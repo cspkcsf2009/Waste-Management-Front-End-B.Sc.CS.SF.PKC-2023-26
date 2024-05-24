@@ -5,6 +5,8 @@
   <h1>Project: Revolutionizing Waste Management through Technology</h1>
 </div>
 
+<br/>
+
 This project aims to develop a comprehensive waste management system that leverages technology to improve efficiency and awareness. 
 
 **Project Components:**
