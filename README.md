@@ -1,6 +1,6 @@
 ## PIONEER KUMARASWAMY COLLEGE
-## Reaccredited with B++ Grade by NAAC
-## Vetturnimadam, Nagercoil.
+Reaccredited with B++ Grade by NAAC
+Vetturnimadam, Nagercoil.
 
 **Department of Computer Science**
 
