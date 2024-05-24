@@ -1,8 +1,9 @@
-# PIONEER KUMARASWAMY COLLEGE
-# Reaccredited with B++ Grade by NAAC, Vetturnimadam, Nagercoil.
+
 
 <div align="center">
   <strong>PIONEER KUMARASWAMY COLLEGE</strong>
+  # PIONEER KUMARASWAMY COLLEGE
+# Reaccredited with B++ Grade by NAAC, Vetturnimadam, Nagercoil.
 </div>
 
 
