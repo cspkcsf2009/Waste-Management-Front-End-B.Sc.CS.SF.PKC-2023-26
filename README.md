@@ -2,7 +2,7 @@
 Reaccredited with B++ Grade by NAAC
 Vetturnimadam, Nagercoil.
 
-##Department of Computer Science
+## Department of Computer Science
 
 **Project: Revolutionizing Waste Management through Technology**
 
