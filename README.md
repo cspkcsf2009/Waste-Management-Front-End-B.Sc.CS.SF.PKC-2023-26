@@ -1,10 +1,9 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <h1>PIONEER KUMARASWAMY COLLEGE</h1>
   <h1>Reaccredited with B++ Grade by NAAC, Vetturnimadam, Nagercoil</h1>
   <h1>Department of Computer Science</h1>
+  <h1>Project: Revolutionizing Waste Management through Technology</h1>
 </div>
-
-## Project: Revolutionizing Waste Management through Technology
 
 This project aims to develop a comprehensive waste management system that leverages technology to improve efficiency and awareness. 
 
