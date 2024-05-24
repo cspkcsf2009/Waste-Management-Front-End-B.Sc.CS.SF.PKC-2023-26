@@ -1,10 +1,9 @@
-<center>
+<div align="center">
   <h1>PIONEER KUMARASWAMY COLLEGE</h1>
 <h1>Reaccredited with B++ Grade by NAAC, Vetturnimadam, Nagercoil</h1>
-</center>
-
-
+    <h1>PIONEER KUMARASWAMY COLLEGE</h1>
 ## Department of Computer Science
+</div>
 
 ## Project: Revolutionizing Waste Management through Technology
 
